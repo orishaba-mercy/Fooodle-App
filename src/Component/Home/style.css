@@ -1,0 +1,48 @@
+.homepage{
+    display: flex;
+    justify-content: center;
+    gap: 20rem;
+    padding-top: 3%;
+    padding: 80px;
+}
+.home-style{
+    font-size: 25px;
+}
+.home-style h1{
+    color: rgb(233, 12, 12);
+}
+.buy{
+    background-color: rgb(218, 97, 97);
+    padding: 20px;
+    font-size: 25px;
+    color: aliceblue;
+    /* color: aliceblue; */
+   
+
+}
+.buy2{
+    border: none;
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 20px;
+
+}
+.icon1{
+    margin-right: 30px;
+    border: 30%;
+    border-radius: 20px;
+
+
+
+}
+.icon2{
+    margin-right: 30px;
+    border: 20px;
+    border-color: rgb(211, 199, 199);
+
+}
+.icon3{
+    margin-right: 30px;
+
+
+}

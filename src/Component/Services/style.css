@@ -1,0 +1,22 @@
+.Images{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+  
+}
+.Images button{
+    margin-left: 70%;
+    margin-bottom: 4%;
+    color: #e90d0d;
+    font-size: larger;
+    
+}
+.best{
+    display: flex;
+    justify-content: center;
+    gap: 30%;
+    padding-top: 50px;
+}
+span{
+    color: rgb(235, 10, 10);
+}

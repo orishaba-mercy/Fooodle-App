@@ -1,0 +1,6 @@
+.about{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(233, 208, 176);
+    gap: 10%;
+}

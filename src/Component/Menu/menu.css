@@ -1,0 +1,59 @@
+.img{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-left: 7%;
+   
+
+}
+.off{
+    display: flex;
+    gap: 15rem;
+    margin-left: 30%;
+    padding-top: 40px;
+
+}
+.regular{
+    display: flex;
+    justify-content: center;
+    gap: 50rem;
+    padding-top: 8rem;
+}
+.regular h1{
+    font-size: 70px;
+}
+.regular p{
+    font-size: 25px;
+}
+.regular button{
+    background-color: rgb(252, 87, 87);
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.img > div {
+    /* border: 1px solid #ccc; Add a solid border */
+    padding: 30px;
+    margin-bottom: 20px; 
+    margin: 36px;
+    border-radius: 30px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: beige;
+  }
+  .img > div button {
+    background-color: #d30707;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .img > div button:hover {
+    background-color: #1681f3;
+  }
+  .img > div svg {
+    color: gold; 
+  }
